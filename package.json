@@ -1,0 +1,23 @@
+{
+  "name": "stray",
+  "version": "0.1.2",
+  "description": "The Flexible String Generator",
+  "main": "stray.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mootzville/strayjs"
+  },
+  "keywords": [
+    "string",
+    "generator"
+  ],
+  "author": "Levi Mootz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mootzville/strayjs/issues"
+  },
+  "homepage": "https://github.com/mootzville/strayjs"
+}
